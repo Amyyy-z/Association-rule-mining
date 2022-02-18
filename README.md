@@ -9,7 +9,7 @@ The text mining implementation and association rule extraction were stored in se
 
 The open-access thyroid disease-related dataset can be found through: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/thyroid+disease).
 
-The partial private dataset is available in the .csv file named "Hospital_partial".
+The partial private dataset is available through [Hospital_partial.csv](https://github.com/Amyyy-z/Association-rule-mining/blob/main/Hospital_partial.csv)
 
 --------------------------
 
