@@ -13,7 +13,7 @@ Please go through below links to access the datasets:
 
 ## Procedures
 1. Download the dataset and form it into .csv
-2. Import all essential libraries and functions
+2. Import all essential libraries and functions 
 3. Transform the dataframe into an array with nested lists indicating each instance
 4. Apply the Faster Apriori algorithm
 5. Visualize the extracted rules
