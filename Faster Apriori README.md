@@ -1,4 +1,4 @@
-# Faster Apriori Implementation Guideline
+# Faster Apriori Implementation Guidelines
 This project also includes the implementation procedures for Faster Apriori.
 The Faster Apriori algorithm consists of updatble table and probability-based pattern mining modules for enhancing its efficiency.
 And this project includes all the utilized functions.
