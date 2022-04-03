@@ -4,7 +4,7 @@ def apriori(X, min_support, use_colnames=False):
     
     time_start = time.time()     #identify the initial starting time
 
-    c1 = create_candidate_1(X)     #create a list of unique items from the transaction table
+    c1 = create_candidate_unique(X)     #create a list of unique items from the transaction table
     freq_item, item_support_dict = create_freq_item(X, c1, min_support = 0.2)     #create a list of items with support value larger than 0.2
     freq_items = [freq_item]
     
