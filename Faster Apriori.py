@@ -4,7 +4,7 @@ def fastapriori(X, min_support, use_colnames=False):
     
     time_start = time.time()
         
-    c1 = create_candidate_1(X) #generate unique itemset named as c1
+    c1 = create_candidate_unique(X) #generate unique itemset named as c1
     
     X_2 = [] #assign an empty dataframe to update transcation database
     
