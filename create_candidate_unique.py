@@ -1,4 +1,4 @@
-def create_candidate_1(X):
+def create_candidate_unique(X):
 
     c1 = []  #assign an empty string
     for transaction in X:
